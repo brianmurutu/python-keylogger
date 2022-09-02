@@ -9,11 +9,12 @@
 ## KEYLOGGER v1.5
 ##### Pro version coming soon!
 ### Contact me on Gmail :  for the Pro Version
+<a href="mailto:murutubrian@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## KEYLOGGER v1.0
-### Coded by: @Sirius-Black4 (https://github.com/Sirius-Black4/keylogger-python)
+### Coded by: @Sir. Brian Murutu (https://github.com/brianmurutu/python-keylogger)
 
 #### Credits (Copyright)
 #### Send_email.py got from @samlopezf (https://github.com/samlopezf):
@@ -32,7 +33,7 @@ Usage of  KEYLOGGER v1.0 for attacking targets without prior mutual consent is i
 ### Usage:
 
 ```
-git clone https://github.com/Sirius-Black4/keylogger-python
+git clone https://github.com/brianmurutu/python-keylogger
 cd keylogger.py
 python keylogger.py
 cd send_email.py
@@ -59,5 +60,5 @@ python send_email.py
 
 ### Donate!
 Support the authors:
-
-<noscript><a href="https://liberapay.com/Sirius-Black4/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a href="https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="75" width="210" alt="Donate with PayPal" />
+</a></p>
